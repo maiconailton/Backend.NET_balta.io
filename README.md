@@ -1,4 +1,4 @@
-# 📂 Repositório de Estudos - Back-End | balta.io  
+# 📂 Repositório de Estudos - Backend | balta.io  
 
 Este repositório contém os projetos e exercícios desenvolvidos durante meus estudos nos cursos de **Back-End** da plataforma [balta.io](https://balta.io).  
 
